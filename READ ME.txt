@@ -1,0 +1,6 @@
+Les fichiers .class sont au niveau de TCalculatrice\bin\tCalc
+Les fichiers .java sont au niveau de TCalculatrice\src\tCalc
+
+pour executer :
+	Ouvrir le projet TCalculatrice sur un editeur de texte (exemple eclipse)
+	Executer la fonction main() du fichier Main.java
